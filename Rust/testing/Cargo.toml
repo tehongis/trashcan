@@ -1,0 +1,18 @@
+[package]
+name = "luumu"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+exitcode = "1.1.2"
+atty = "0.2.14"
+clap = "4.0.9"
+assert_fs = "1.0.7"
+log = "0.4.17"
+indicatif = "0.17.1"
+sdl2 = "0.35"
+specs = "0.18.0"
+rand = "0.8.5"
+rayon = "1.5.3"

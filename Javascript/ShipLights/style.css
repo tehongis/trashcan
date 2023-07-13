@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color:rgb(74, 71, 87);
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 1px solid rgb(143, 17, 17);
+    padding: 10px;
+  }
+  
+.diag {
+    color: white;
+    background-color: rgb(33, 34, 33);
+    margin: auto;
+    width: 50%;
+    border: 1px solid rgb(143, 17, 17);
+    padding: 10px;
+  }
+
+

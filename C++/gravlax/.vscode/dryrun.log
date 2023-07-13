@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/thongisto/Gravlab'
+g++ -g -Wall -pedantic main.cpp -o GravLab.exe -lSDL2 -lSDL2_mixer -lSDL2_image -lBox2D
+make: Leaving directory '/home/thongisto/Gravlab'
+ 
